@@ -1,0 +1,21 @@
+Host_Response_Rate,Host response to booking requests 
+Host_Identity_Verified,Host identity verified before booking/listing property 
+Host_Total_Listings_Count,Total number of properties listed by the host
+Unique_City _ID,A unique city ID 
+Location_Verified ,The location  of property was exact as per the listing 
+Property_Type,Property type code
+Room_Type,Roo type code
+Max_Accomodation ,Maximum number of people allowed to stay in 
+Bathrooms_Count ,No of bathrooms on the property 
+Bedrooms_Count ,No of bedrooms on the property 
+Beds_Count,No of beds in the bedroom
+Bed_Type,Type of bed i.e. single double ect
+Amenities_Price ,Price of amenities 
+Price,Total price of booking 
+Minimum_Nights,Minimum nights you can book the property
+Number_of_Reviews,No of reviews on the property 
+Review_Scores_Rating,Review score for the property
+Instant_Bookable,Is property instant book able
+Cancellation_Rate,Rate of cancellation for the bookings
+Reviews_per_Month,No of reviews on the property per month  
+Fraud_Count,No of fake/fraud bookings on the property 

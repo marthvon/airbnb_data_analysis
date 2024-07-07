@@ -1,0 +1,36 @@
+## Synopsis
+
+Assignment 1 of Fundamentals of Programming COMP1005/5005
+Airbnb Data Analysing Software
+
+## Contents
+
+src/airbnb.py
+src/etl.py
+src/store.py
+src/query.py
+src/menu.py
+src/Dataset_Legend.csv
+src/Dataset.csv
+src/test.py
+README
+docs/Documentation_and_Report
+
+## Author
+
+name: Mamert Vonn G. Santelices
+id:   90026174
+
+## Dependencies
+
+Linux OS
+Python3
+numpy
+matplotlib
+
+## Version Information
+
+06/08/2023 - initial version of
+
+Curtin College
+Bentley
