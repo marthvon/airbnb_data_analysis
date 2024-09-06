@@ -1,7 +1,7 @@
 # Synopsis
 
-### Assignment 1 of Fundamentals of Programming COMP1005/5005
-## Airbnb Data Analysing Software
+#### Assignment 1 of Fundamentals of Programming COMP1005/5005
+### Airbnb Data Analysing Software
 
 # Contents
 
