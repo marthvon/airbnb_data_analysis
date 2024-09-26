@@ -3,6 +3,13 @@
 #### Assignment 1 of Fundamentals of Programming COMP1005/5005
 ### Airbnb Data Analysing Software
 
+To run script,
+``` sh #
+cd src
+python3 airbnb.py
+```
+To replace dataset, just upload a different Dataset.csv file to the src directory
+
 # Contents
 
 src/airbnb.py<br>
